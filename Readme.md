@@ -1,5 +1,5 @@
 
-Autômato Expressões Matemáticas
+#Autômato Expressões Matemáticas
 
 Este programa tem o objetivo de Calcular Expressões Matemáticas.
 Dada uma Expressão, o programa a validará e realizará o cálculo da mesma.
